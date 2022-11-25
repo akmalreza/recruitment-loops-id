@@ -1,6 +1,6 @@
 ## Introduction
 
-Repository ini dibuat untuk memenuhi recruitment test dari [loops.id](https://loops/id) untuk kandidat Akmal Reza Putra.
+Repository ini dibuat untuk memenuhi recruitment test dari [loops.id](https://loops.id) untuk kandidat Akmal Reza Putra.
 
 ## Requirements
 
