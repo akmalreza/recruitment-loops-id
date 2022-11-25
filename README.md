@@ -13,6 +13,7 @@ Repository ini dibuat untuk memenuhi recruitment test dari [loops.id](https://lo
 ## Installation
 
 - [ ] Clone project from github repsitory
+- [ ] Change directory to the cloned repository (`cd recruitment-loops-id`)
 - [ ] Run `composer install`
 - [ ] Run `npm install`
 - [ ] Copy `.env.example` to `.env`
@@ -21,3 +22,6 @@ Repository ini dibuat untuk memenuhi recruitment test dari [loops.id](https://lo
 - [ ] Run `npm run build`
 - [ ] Run `php artisan serve`
 - [ ] Open web on `http://localhost:8000`
+
+## Running login test
+ Run `php artisan dusk` in your terminal
